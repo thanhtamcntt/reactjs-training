@@ -6,7 +6,7 @@ class Home extends React.Component {
     constructor(props) {
         super(props);
         //Chỉ định một state
-        this.state = { website: "Freetuts.net", index: 1 };
+        this.state = { website: "codecomplete", index: 1 };
     }
 
     countDown() {
